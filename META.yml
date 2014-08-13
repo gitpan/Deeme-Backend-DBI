@@ -4,8 +4,6 @@ author:
   - 'mudler <mudler@dark-lab.net>'
 build_requires:
   Carp::Always: '0'
-  DBD::SQLite: '0'
-  Deeme::Backend::SQLite: '0'
   Test::More: '0'
 configure_requires:
   Module::Build::Tiny: '0.037'
@@ -35,4 +33,4 @@ resources:
   bugtracker: https://github.com/mudler/p5-Deeme-Backend-DBI/issues
   homepage: https://github.com/mudler/p5-Deeme-Backend-DBI
   repository: https://github.com/mudler/p5-Deeme-Backend-DBI.git
-version: '0.02'
+version: '0.03'
