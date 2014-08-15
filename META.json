@@ -47,6 +47,7 @@
       "test" : {
          "requires" : {
             "Carp::Always" : "0",
+            "DBD::SQLite" : "0",
             "Test::More" : "0"
          }
       }
@@ -63,6 +64,6 @@
          "web" : "https://github.com/mudler/p5-Deeme-Backend-DBI"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
 
